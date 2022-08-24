@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Sam Shearman">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10629</md:content-id>
     <md:title>Getting Started with NI LabVIEW for Signal Processing</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d6f7df30-da15-43a2-aed8-789fc2c49724</md:uuid>
-<md:slug>getting-started-with-ni-labview-for-signal-processing</md:slug>
-</metadata>
+    <md:slug>getting-started-with-ni-labview-for-signal-processing</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Working with LabVIEW for Signal Processing</md:title>
